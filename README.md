@@ -1,6 +1,11 @@
 # data_science_speciale
 
 ## links 
+
+[A Deep Learning-Enhanced Stereo Matching Method and Its Application to Bin Picking Problems Involving Tiny Cubic Workpieces](https://www.mdpi.com/2079-9292/12/18/3978)
+
+[STEREO VISION SYSTEM FOR A BIN PICKING ADEPT ROBOT](http://ojie.um.edu.my/index.php/MJCS/article/view/6300)
+
 [towards data science dl for depth esitmation](https://towardsdatascience.com/dl-for-depth-estimation-p2-7cb2c9ff325d)
 
 [stereo_vision_repo_no_neural_network](https://github.com/LearnTechWithUs/Stereo-Vision/blob/master/Main_Stereo_Vision_Prog.py)
