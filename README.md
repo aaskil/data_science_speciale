@@ -1,22 +1,26 @@
 # data_science_speciale
 ## neural network stereo links
+
+google_scholar: "stereo vision" AND "distance estimation" AND "neural networks"
+
 [End-to-End Learning of Geometry and Context for Deep Stereo Regression](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kendall_End-To-End_Learning_of_ICCV_2017_paper.pdf)
 
-[On the Importance of Stereo for Accurate Depth Estimation: An Efficient Semi-Supervised Deep Neural Network Approach](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Smolyanskiy_On_the_Importance_CVPR_2018_paper.pdf)
+Fundet som referance
+- [On the Importance of Stereo for Accurate Depth Estimation: An Efficient Semi-Supervised Deep Neural Network Approach](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Smolyanskiy_On_the_Importance_CVPR_2018_paper.pdf)
 
-[Patch Based Confidence Prediction for Dense Disparity Map](https://www.cvlibs.net/projects/autonomous_vision_survey/literature/Seki2016BMVC.pdf)
+- [Patch Based Confidence Prediction for Dense Disparity Map](https://www.cvlibs.net/projects/autonomous_vision_survey/literature/Seki2016BMVC.pdf)
 
-[Exploiting Object Similarity in 3D Reconstruction](https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Exploiting_Object_Similarity_ICCV_2015_paper.pdf)
+- [Exploiting Object Similarity in 3D Reconstruction](https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Exploiting_Object_Similarity_ICCV_2015_paper.pdf)
 
-[Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://www.jmlr.org/papers/volume17/15-535/15-535.pdf)
+- [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://www.jmlr.org/papers/volume17/15-535/15-535.pdf)
 
-[Self-Supervised Learning for Stereo Matching with Self-Improving Ability](https://arxiv.org/pdf/1709.00930.pdf)
+- [Self-Supervised Learning for Stereo Matching with Self-Improving Ability](https://arxiv.org/pdf/1709.00930.pdf)
 
-[Detect, Replace, Refine: Deep Structured Prediction For Pixel Wise Labeling](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gidaris_Detect_Replace_Refine_CVPR_2017_paper.pdf)
+- [Detect, Replace, Refine: Deep Structured Prediction For Pixel Wise Labeling](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gidaris_Detect_Replace_Refine_CVPR_2017_paper.pdf)
 
-[Cascade Residual Learning: A Two-stage Convolutional Neural Network for Stereo Matching](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Pang_Cascade_Residual_Learning_ICCV_2017_paper.pdf)
+- [Cascade Residual Learning: A Two-stage Convolutional Neural Network for Stereo Matching](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Pang_Cascade_Residual_Learning_ICCV_2017_paper.pdf)
 
-[SGM-Nets: Semi-global matching with neural networks](https://openaccess.thecvf.com/content_cvpr_2017/papers/Seki_SGM-Nets_Semi-Global_Matching_CVPR_2017_paper.pdf)
+- [SGM-Nets: Semi-global matching with neural networks](https://openaccess.thecvf.com/content_cvpr_2017/papers/Seki_SGM-Nets_Semi-Global_Matching_CVPR_2017_paper.pdf)
 
 ## links 
 
