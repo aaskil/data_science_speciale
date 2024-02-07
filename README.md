@@ -1,5 +1,5 @@
 # data_science_speciale
-## links
+## neural network stereo links
 [End-to-End Learning of Geometry and Context for Deep Stereo Regression](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kendall_End-To-End_Learning_of_ICCV_2017_paper.pdf)
 
 [On the Importance of Stereo for Accurate Depth Estimation: An Efficient Semi-Supervised Deep Neural Network Approach](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Smolyanskiy_On_the_Importance_CVPR_2018_paper.pdf)
