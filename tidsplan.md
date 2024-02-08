@@ -1,11 +1,11 @@
-week 6
+# week 6
 - [x] read all the research papers. febuary 8. 
 - [x] Meting med Scape
-- [ ] Begin on week 7 goals
+# - [ ] Begin on week 7 goals
 - [ ] Understand
     - disparity estimation
 
-week 7
+# week 7
 - GOAL: goal is to generate a proof of concept for the data pipeline
 - MAIN question, does the data have labels, or do we need to generate them ourselves?
 - [ ] download some stereo images datasets, sceneflow, Kitti(maybe)
@@ -24,32 +24,32 @@ week 7
     - univalued disparity, with respect to a reference image
     - disparity space representation
 
-week 8
+# week 8
 
-week 9
+# week 9
 
-week 10
+# week 10
 
-week 11
+# week 11
 
-week 12
+# week 12
 
-week 13
+# week 13
 
-week 14
+# week 14
 
-week 15
+# week 15
 
-week 16
+# week 16
 
-week 17
+# week 17
 
-week 18
+# week 18
 
-week 19
+# week 19
 
-week 20
+# week 20
 
-week 21
+# week 21
 
-week 22
+# week 22
