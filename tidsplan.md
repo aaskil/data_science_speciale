@@ -1,7 +1,7 @@
 # week 6
 - [x] read all the research papers. febuary 8. 
 - [x] Meting med Scape
-# - [ ] Begin on week 7 goals
+- [ ] Begin on week 7 goals
 - [ ] Understand
     - disparity estimation
 
