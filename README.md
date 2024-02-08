@@ -4,8 +4,6 @@
 
 [A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf)
 
-[A full-3D Voxel-based Dynamic Obstacle Detection for Urban Scenario using Stereo Vision](https://d1wqtxts1xzle7.cloudfront.net/43517522/A_Full-3D_Voxel-Based_Dynamic_Obstacle_D20160308-26799-18m5i0v-libre.pdf?1457467196=&response-content-disposition=inline%3B+filename%3DA_full_3D_voxel_based_dynamic_obstacle_d.pdf&Expires=1707409248&Signature=Dj7uJyE~rGQ4q2F8EdGDjmB5oO--K9Fm4saWxM5cCPnsGTUkwaH0kTDd0YM5XLxGE0phbIyj7BKvWroHyLH~VqoDpTPg8ov7aTTuijCihFKq~guz3ErUo1qdIMYWDRG52L17bYnnbprjL5Rt~odJhSJ661dtnCLVfgocWC5QgAAVOWjwoxESetbqOuYuIaOFDBlpXuAIXWVDNSj7fIbGPVAfx0J5njcNjvO0~G-TP3QhrX0gdZgIh79X2dpbAGf9hzpdMMnJWrxUh0FAZAbbUuZMCLv7KqsBJku0LjLbpWku-4A-YPWsIWNWOMN7H5gkGU64PARLrhbcLSu0gHkfOQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
-
 ## neural network stereo links
 
 google_scholar: "stereo vision" AND "distance estimation" AND "neural networks"
