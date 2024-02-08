@@ -4,6 +4,8 @@
 
 [A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf)
 
+[Distance measurement system for autonomous vehicles using stereo camera](https://www.sciencedirect.com/science/article/pii/S2590005620300011)
+
 ## neural network stereo links
 
 google_scholar: "stereo vision" AND "distance estimation" AND "neural networks"
