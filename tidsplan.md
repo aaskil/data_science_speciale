@@ -9,7 +9,7 @@ week 7
 - GOAL: goal is to generate a proof of concept for the data pipeline
 - MAIN question, does the data have labels, or do we need to generate them ourselves?
 - [ ] download some stereo images datasets, sceneflow, Kitti(maybe)
-- [ ] follow guide at (disparity estimation)[https://learnopencv.com/disparity-estimation-using-deep-learning/?fbclid=IwAR2WVHKkiD8bgcwWgYHxrQOn5oB_qpwQnGa2sVMwENm-Y6s6iX85VdG8eR8]
+- [ ] follow guide at [disparity estimation](https://learnopencv.com/disparity-estimation-using-deep-learning/?fbclid=IwAR2WVHKkiD8bgcwWgYHxrQOn5oB_qpwQnGa2sVMwENm-Y6s6iX85VdG8eR8)
     - two input images, left and right, look at output
 - [ ] generate a neural network for distance estimation
 - [ ] test openCV for object detection, hvis det giver mening.
