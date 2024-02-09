@@ -2,6 +2,14 @@
 
 ## BOOKS
 
+[Concise Computer Vision An Introduction into Theory and Algorithms](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Concise%20Computer%20Vision_%20An%20Introduction%20into%20Theory%20and%20Algorithms%20%5BKlette%202014-01-20%5D.pdf)
+
+[Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://powerunit-ju.com/wp-content/uploads/2021/04/Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf)
+
+[Hands-On Computer Vision with TensorFlow 2](https://www.wolf.university/hands-oncomputervisionwithtensorflow2/ebook/hands-oncomputervisionwithtensorflow2.pdf)
+
+[Stevens, E. and Antiga, L. (2019) Deep Learning with PyTorch Essential Excerpts, PyTorch.](https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf)
+
 [Bradski, G. and Kaehler, A. (2008) Learning OpenCV, Learning OpenCV.](https://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf)
 - chapter 12, has subsection of disparity, and important point on rectifyity
 
