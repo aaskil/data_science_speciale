@@ -34,6 +34,8 @@ google_scholar: "stereo vision" AND "distance estimation" AND "neural networks"
 
 ## Non_research links 
 
+[Youtube: From Beginner to Expert: How to Master Stereo Vision and Depth Estimation with OpenCV C++ and Python](https://www.youtube.com/watch?v=KOSS24P3_fY)
+
 [A Deep Learning-Enhanced Stereo Matching Method and Its Application to Bin Picking Problems Involving Tiny Cubic Workpieces](https://www.mdpi.com/2079-9292/12/18/3978)
 
 [STEREO VISION SYSTEM FOR A BIN PICKING ADEPT ROBOT](http://ojie.um.edu.my/index.php/MJCS/article/view/6300)
