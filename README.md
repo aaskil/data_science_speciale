@@ -32,6 +32,9 @@ google_scholar: "stereo vision" AND "distance estimation" AND "neural networks"
 
 [SGM-Nets: Semi-global matching with neural networks](https://openaccess.thecvf.com/content_cvpr_2017/papers/Seki_SGM-Nets_Semi-Global_Matching_CVPR_2017_paper.pdf)
 
+[Žbontar, J. and Le Cun, Y. (2015) ‘Computing the stereo matching cost with a convolutional neural network’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zbontar_Computing_the_Stereo_2015_CVPR_paper.pdf)
+
+
 ## Non_research links 
 
 [Youtube: From Beginner to Expert: How to Master Stereo Vision and Depth Estimation with OpenCV C++ and Python](https://www.youtube.com/watch?v=KOSS24P3_fY)
