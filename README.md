@@ -2,37 +2,38 @@
 
 ## BOOKS
 
-[chapter 12, has subsection of disparity, and important point on rectifyity](https://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf)
+[Bradski, G. and Kaehler, A. (2008) Learning OpenCV, Learning OpenCV.](https://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf)
+- chapter 12, has subsection of disparity, and important point on rectifyity
 
 ## Research papers
 google_scholar: "stereo vision" AND "distance estimation" AND "neural networks"
 ### Stereo vision disparity estimation papers
 
-[A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf)
+[Scharstein, D. and Szeliski, R. (2002) ‘A taxonomy and evaluation of dense two-frame stereo correspondence algorithms’, International Journal of Computer Vision, 47(1–3).](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf)
 
-[Distance measurement system for autonomous vehicles using stereo camera](https://www.sciencedirect.com/science/article/pii/S2590005620300011)
+[Zaarane, A. et al. (2020) ‘Distance measurement system for autonomous vehicles using stereo camera’, Array, 5.](https://www.sciencedirect.com/science/article/pii/S2590005620300011)
 
 ### neural network stereo imaging papers
 
-[End-to-End Learning of Geometry and Context for Deep Stereo Regression](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kendall_End-To-End_Learning_of_ICCV_2017_paper.pdf)
-
-[On the Importance of Stereo for Accurate Depth Estimation: An Efficient Semi-Supervised Deep Neural Network Approach](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Smolyanskiy_On_the_Importance_CVPR_2018_paper.pdf)
-
-[Patch Based Confidence Prediction for Dense Disparity Map](https://www.cvlibs.net/projects/autonomous_vision_survey/literature/Seki2016BMVC.pdf)
-
 [Exploiting Object Similarity in 3D Reconstruction](https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Exploiting_Object_Similarity_ICCV_2015_paper.pdf)
 
-[Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](https://www.jmlr.org/papers/volume17/15-535/15-535.pdf)
+[Gidaris, S. and Komodakis, N. (2017) ‘Detect, replace, refine: Deep structured prediction for pixel wise labeling’, in Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017.](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gidaris_Detect_Replace_Refine_CVPR_2017_paper.pdf)
+
+[Kendall, A. et al. (2017) ‘End-to-End Learning of Geometry and Context for Deep Stereo Regression’, Proceedings of the IEEE International Conference on Computer Vision, 2017-Octob, pp. 66–75.](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kendall_End-To-End_Learning_of_ICCV_2017_paper.pdf)
+
+[Pang, J. et al. (2017) ‘Cascade Residual Learning: A Two-Stage Convolutional Neural Network for Stereo Matching’, in Proceedings - 2017 IEEE International Conference on Computer Vision Workshops, ICCVW 2017.](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Pang_Cascade_Residual_Learning_ICCV_2017_paper.pdf)
+
+[Seki, A. et al. (2017) ‘SGM-Nets: Semi-global matching with neural networks’, in Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017.](https://openaccess.thecvf.com/content_cvpr_2017/papers/Seki_SGM-Nets_Semi-Global_Matching_CVPR_2017_paper.pdf)
 
 [Self-Supervised Learning for Stereo Matching with Self-Improving Ability](https://arxiv.org/pdf/1709.00930.pdf)
 
-[Detect, Replace, Refine: Deep Structured Prediction For Pixel Wise Labeling](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gidaris_Detect_Replace_Refine_CVPR_2017_paper.pdf)
+[Smolyanskiy, N., Kamenev, A. and Birchfield, S. (2018) ‘On the importance of stereo for accurate depth estimation: An efficient semi-supervised deep neural network approach’, in IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops.](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Smolyanskiy_On_the_Importance_CVPR_2018_paper.pdf)
 
-[Cascade Residual Learning: A Two-stage Convolutional Neural Network for Stereo Matching](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Pang_Cascade_Residual_Learning_ICCV_2017_paper.pdf)
-
-[SGM-Nets: Semi-global matching with neural networks](https://openaccess.thecvf.com/content_cvpr_2017/papers/Seki_SGM-Nets_Semi-Global_Matching_CVPR_2017_paper.pdf)
+[Smolyanskiy, N., Kamenev, A. and Birchfield, S. (2018) ‘On the importance of stereo for accurate depth estimation: An efficient semi-supervised deep neural network approach’, in IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops.](https://www.cvlibs.net/projects/autonomous_vision_survey/literature/Seki2016BMVC.pdf)
 
 [Žbontar, J. and Le Cun, Y. (2015) ‘Computing the stereo matching cost with a convolutional neural network’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zbontar_Computing_the_Stereo_2015_CVPR_paper.pdf)
+
+[Žbontar, J. and Lecun, Y. (2016) ‘Stereo matching by training a convolutional neural network to compare image patches’, Journal of Machine Learning Research, 17.](https://www.jmlr.org/papers/volume17/15-535/15-535.pdf)
 
 
 ## Non_research links 
