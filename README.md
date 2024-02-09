@@ -2,6 +2,10 @@
 
 ## BOOKS
 
+[Krig, S. (2014) Computer vision metrics: Survey, taxonomy, and analysis, Computer Vision Metrics: Survey, Taxonomy, and Analysis.](http://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Scott_Krig-Computer_Vision_Metrics-EN.pdf)
+
+[Davies, R. (2012) Computer and Machine Vision, 4th Edition Theory, Algorithms, Practicalities Opsylum, Zhurnal Eksperimental’noi i Teoreticheskoi Fiziki.](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Computer%20and%20Machine%20Vision_%20Theory%2C%20Algorithms%2C%20Practicalities%20%284th%20ed.%29%20%5BDavies%202012-03-19%5D.pdf)
+
 [Concise Computer Vision An Introduction into Theory and Algorithms](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Concise%20Computer%20Vision_%20An%20Introduction%20into%20Theory%20and%20Algorithms%20%5BKlette%202014-01-20%5D.pdf)
 
 [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://powerunit-ju.com/wp-content/uploads/2021/04/Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf)
