@@ -5,4 +5,4 @@ februar 12.
     - [Pyramid Stereo Matching Network](https://github.com/JiaRenChang/PSMNet/tree/master)
     - cost volume is something beeing minimized for optimal pixel matching, for which the disparity map is calculated
     - [Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching](https://arxiv.org/pdf/1912.06378.pdf)
-    - written to Christian
+- written to Christian
