@@ -25,11 +25,10 @@ google_scholar: "stereo vision" AND "distance estimation" AND "neural networks"
 
 [Zaarane, A. et al. (2020) ‘Distance measurement system for autonomous vehicles using stereo camera’, Array, 5.](https://www.sciencedirect.com/science/article/pii/S2590005620300011)
 
-### neural network stereo imaging papers
-
-[Exploiting Object Similarity in 3D Reconstruction](https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Exploiting_Object_Similarity_ICCV_2015_paper.pdf)
-
 [Gidaris, S. and Komodakis, N. (2017) ‘Detect, replace, refine: Deep structured prediction for pixel wise labeling’, in Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017.](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gidaris_Detect_Replace_Refine_CVPR_2017_paper.pdf)
+
+
+### neural network AND stereo imaging papers
 
 [Kendall, A. et al. (2017) ‘End-to-End Learning of Geometry and Context for Deep Stereo Regression’, Proceedings of the IEEE International Conference on Computer Vision, 2017-Octob, pp. 66–75.](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kendall_End-To-End_Learning_of_ICCV_2017_paper.pdf)
 
@@ -43,14 +42,16 @@ google_scholar: "stereo vision" AND "distance estimation" AND "neural networks"
 
 [Smolyanskiy, N., Kamenev, A. and Birchfield, S. (2018) ‘On the importance of stereo for accurate depth estimation: An efficient semi-supervised deep neural network approach’, in IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops.](https://www.cvlibs.net/projects/autonomous_vision_survey/literature/Seki2016BMVC.pdf)
 
-[Žbontar, J. and Le Cun, Y. (2015) ‘Computing the stereo matching cost with a convolutional neural network’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zbontar_Computing_the_Stereo_2015_CVPR_paper.pdf)
+[Žbontar, J. and LeCun, Y. (2016) ‘Stereo matching by training a convolutional neural network to compare image patches’, Journal of Machine Learning Research, 17.](https://www.jmlr.org/papers/volume17/15-535/15-535.pdf)
 
-[Žbontar, J. and Lecun, Y. (2016) ‘Stereo matching by training a convolutional neural network to compare image patches’, Journal of Machine Learning Research, 17.](https://www.jmlr.org/papers/volume17/15-535/15-535.pdf)
+[Žbontar, J. and LeCun, Y. (2015) ‘Computing the stereo matching cost with a convolutional neural network’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition.](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zbontar_Computing_the_Stereo_2015_CVPR_paper.pdf)
 
+## 3D imaging not stereo image papers
+[Zhou, C. et al. (2015) ‘Exploiting object similarity in 3D reconstruction’, Proceedings of the IEEE International Conference on Computer Vision, 2015 International Conference on Computer Vision, ICCV 2015, pp. 2201–2209.](https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Exploiting_Object_Similarity_ICCV_2015_paper.pdf)
 
 ## Non_research links 
 
-[Youtube: From Beginner to Expert: How to Master Stereo Vision and Depth Estimation with OpenCV C++ and Python](https://www.youtube.com/watch?v=KOSS24P3_fY)
+[Nielsen, N. (2020) From Beginner to Expert: How to Master Stereo Vision and Depth Estimation with OpenCV C++ and Python.](https://www.youtube.com/watch?v=KOSS24P3_fY)
 
 [A Deep Learning-Enhanced Stereo Matching Method and Its Application to Bin Picking Problems Involving Tiny Cubic Workpieces](https://www.mdpi.com/2079-9292/12/18/3978)
 

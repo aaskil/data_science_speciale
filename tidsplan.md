@@ -23,10 +23,16 @@
     - how is a disparity map generated
     - univalued disparity, with respect to a reference image
     - disparity space representation
+- [ ] Make a neural network on scene flow, with some metrics
 
 # week 8
 
+- [ ] Generate a ready to use model
+- [ ] SCAPE cameras are ready for usage, gather data
+
 # week 9
+
+- [ ] Data 
 
 # week 10
 
