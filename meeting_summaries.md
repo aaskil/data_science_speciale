@@ -1,3 +1,24 @@
+## Fredag 16. feb - CMD
+
+Christian vil gerne snakke om afhandling (krav)
+
+    - Hvad virker / virker ikke
+        - Alt vi laver skal være generaliserbart - vi må ikke bare køre fuldt virksomhedsprojekt.
+
+        Strukturen:
+        - Introduktion - motivation (hvorfor er det vigtigt at forske i det her)
+        - Introducer casen (Skal være specifikt, gør det meget præcist hvad vi skriver om)
+        - Related work (forklar state of the art) 
+            - Stereo vision
+            - Object detection
+        - Teoretisk framework - hvad tager vi udgangspunkt
+        - Data beskrivelse (setup)
+        - Empirisk sektion - vi må tage alt vi vil og så tilpasse det til specifikke løsning. Hvordan hænger empiri og teori sammen. (Gælder github kode fra andre                 paper's fx
+        - Resultatsektion (veldokumenteret), hvad betyder resultaterne (hvad for nogle metrics)
+
+Mangler navn på den Huggingface Meta object detector model
+
+
 ## Torsdag 8. feb - Scape Technologies
 
 Fokuser på at lave vores afstandsbedømmelse. Hovedfokus. Vi kan altid bygge oven på bagefter
