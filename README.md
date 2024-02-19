@@ -67,7 +67,7 @@ GC-Net 2017:<br>
 #### 2018
 *PSMnet 2018 w/github :<br>
 [Chang, J.R. and Chen, Y.S. (2018) ‘Pyramid Stereo Matching Network’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2018.00567.](https://arxiv.org/pdf/1803.08669.pdf)<br>
-[- PSMnet github](https://github.com/JiaRenChang/PSMNet/tree/master)
+[- PSMnet github](https://github.com/JiaRenChang/ PSMNet/tree/master)
 
 *CSPN 2018:<br>
 [Cheng, X., Wang, P. and Yang, R. (2020) ‘Learning Depth with Convolutional Spatial Propagation Network’, IEEE Transactions on Pattern Analysis and Machine Intelligence, 42(10). Available at: https://doi.org/10.1109/TPAMI.2019.2947374.](https://arxiv.org/pdf/1810.02695.pdf)<br>

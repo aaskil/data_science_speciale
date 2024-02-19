@@ -6,3 +6,18 @@ februar 12.
     - cost volume is something beeing minimized for optimal pixel matching, for which the disparity map is calculated
     - [Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching](https://arxiv.org/pdf/1912.06378.pdf)
 - written to Christian
+
+februar 12.
+- hjemme kontor
+- fundet meget litteratur, opdateret readme med masser af kilder. fundet litterature review fra januar 2024
+
+februar 13.
+- skolen kort dag. begynt at læse litteratur review
+
+februar 14.
+- hjemme kontror, fortsætter læsning af litteratur review
+
+februar 15.
+- hovedbiblioteket
+- begynt at skrive teori afsnit
+- forsøgt at få CGI-CNN til at køre
