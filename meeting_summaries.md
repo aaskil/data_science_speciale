@@ -13,7 +13,7 @@ Christian vil gerne snakke om afhandling (krav)
             - Object detection
         - Teoretisk framework - hvad tager vi udgangspunkt
         - Data beskrivelse (setup)
-        - Empirisk sektion - vi må tage alt vi vil og så tilpasse det til specifikke løsning. Hvordan hænger empiri og teori sammen. (Gælder github kode fra andre                 paper's fx
+        - Empirisk sektion - vi må tage alt vi vil og så tilpasse det til specifikke løsning. Hvordan hænger empiri og teori sammen. (Gælder github kode fra andre paper's fx
         - Resultatsektion (veldokumenteret), hvad betyder resultaterne (hvad for nogle metrics)
 
 Mangler navn på den Huggingface Meta object detector model
