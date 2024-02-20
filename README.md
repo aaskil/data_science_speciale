@@ -1,5 +1,10 @@
 # data_science_speciale
 
+## Modeller
+Download model checkpoints fra: (Jeg brugte bare default i begge tilfælde)
+https://github.com/CASIA-IVA-Lab/FastSAM
+
+https://github.com/facebookresearch/segment-anything 
 ## BOOKS
 [Bradski, G. and Kaehler, A. (2008) Learning OpenCV, Learning OpenCV.](https://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf)
 
