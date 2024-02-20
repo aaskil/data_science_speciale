@@ -31,10 +31,12 @@
     - struktur
     - udvælgelse af artikler
     - skrive draft
+- [ ] Try out SAM model for object detection - FASTSam is a possibility if runtime is an error. Should be a lot quicker but not as precise. (https://github.com/CASIA-IVA-Lab/FastSAM)
+- [ ] Litteratursøg på object detection
 - [ ] Deconstruct the codebase, and understand the codebase and apply the codebase
 - [ ] SCAPE cameras are ready for usage, gather data
     - når de kalder, så kaster vi det vi har i hendærne
-- [ ] Litteratursøg på object detection
+
 
 # week 9
 
