@@ -34,6 +34,13 @@ google_scholar: "stereo vision" AND "distance estimation" AND "neural networks"
 this litterature revies, cites: 
 this litterature review, compares CRL, SsMNet, PSMNet, EdgeStereo, HSM, MCV-MFC, HITNet, OptStereo, PVSereo, SMAR-Net, CRAR, ACVNet, iRaftStereo, PCW-Net, CGI-Stereo
 
+### traditional stereo vision papers
+
+the beggining of stereo vision:<br>
+[Marr, D. and Poggio, T. (1976) ‘Cooperative computation of stereo disparity’](https://apps.dtic.mil/sti/tr/pdf/ADA030748.pdf)
+
+
+
 ### neural network AND stereo imaging papers
 * mentioned in litterature review
 
