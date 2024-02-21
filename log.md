@@ -21,3 +21,12 @@ februar 15.
 - hovedbiblioteket
 - begynt at skrive teori afsnit
 - forsøgt at få CGI-CNN til at køre
+
+februar 21.
+- Jonas
+    - Arbejdet på YOLOv8 modellen. Har prøvet at få den til at - træne dog uden held.
+    - Oprettet kode til at udtrække masks i png og json format til at generere data.
+    - Har genereret preliminary dataset som jeg vil prøve at træne på.
+    - https://roboflow.com/models/instance-segmentation Her findes state-of-the-art og most commonly used modeller til instance segmentation, samt guides mm. Roboflow can ligeledes bruges til at generere dataset, lave augmentation og generere test/train/validation sets.
+
+    
