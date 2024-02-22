@@ -12,17 +12,24 @@ import matplotlib.pyplot as plt
 
 
 class DatasetFolder(Dataset):
-    def __init__(self, datapath, list_filename, training):
+    def __init__(self, datapath, list_filename, training, subset = False, subset_size = 20):
         self.datapath = datapath
         self.left_filenames, self.right_filenames, self.disp_filenames = self.load_path(list_filename)
         self.training = training
 
+        if subset:
+            self.select_subset(subset_size)
+
+    def select_subset(self, subset_size):
+        indices = random.sample(range(len(self.left_filenames)), subset_size)
+        self.left_filenames = [self.left_filenames[i] for i in indices]
+
     def load_path(self, list_filename):
         lines = read_all_lines(list_filename)
         splits = [line.split() for line in lines]
-        left_images = [x[0] for x in splits]
+        left_images  = [x[0] for x in splits]
         right_images = [x[1] for x in splits]
-        disp_images = [x[2] for x in splits]
+        disp_images  = [x[2] for x in splits]
         return left_images, right_images, disp_images
 
     def load_image(self, filename):
@@ -53,8 +60,8 @@ class DatasetFolder(Dataset):
 
             th, tw = 256, 512
             random_brightness = np.random.uniform(0.5, 2.0, 2)
-            random_gamma = np.random.uniform(0.8, 1.2, 2)
-            random_contrast = np.random.uniform(0.8, 1.2, 2)
+            random_gamma      = np.random.uniform(0.8, 1.2, 2)
+            random_contrast   = np.random.uniform(0.8, 1.2, 2)
             random_saturation = np.random.uniform(0, 1.4, 2)
 
             left_img = torchvision.transforms.functional.adjust_brightness(left_img, random_brightness[0])
