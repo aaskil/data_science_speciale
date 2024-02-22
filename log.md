@@ -22,6 +22,19 @@ februar 15.
 - begynt at skrive teori afsnit
 - forsøgt at få CGI-CNN til at køre
 
+
+- forsøgt at få CGI-CNN til at køre
+
+februar 19.
+- fået CGI-net op at køre. problem med gpu og 'mps'
+- fået SAM op at køre
+
+februar 20.
+- trænet CGI-net, 5 epoker, 20 samples
+- litteratur review på object segmentation
+    - segmentation ikke detection
+    - instance segmentation ikke semantic segmentation eller panoptic segmentation
+
 februar 21.
 - Jonas
     - Arbejdet på YOLOv8 modellen. Har prøvet at få den til at - træne dog uden held.
