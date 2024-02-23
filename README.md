@@ -22,6 +22,15 @@ https://github.com/facebookresearch/segment-anything
 - chapter 12, has subsection of disparity, and important point on rectifyity
 
 ## Research papers
+### Instance segmentation papers
+
+[Segment anything](https://arxiv.org/pdf/2304.02643.pdf)
+
+[A COMPREHENSIVE REVIEW OF YOLO ARCHITECTURES IN COMPUTER VISION: FROM YOLOV1 TO YOLOV8 AND YOLO-NAS](https://arxiv.org/pdf/2304.00501.pdf)
+
+[Mask R CNN](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
+
+
 google_scholar: "stereo vision" AND "distance estimation" AND "neural networks"
 ### Stereo vision disparity estimation papers
 
