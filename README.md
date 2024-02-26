@@ -1,11 +1,10 @@
 # data_science_speciale
 
-## Modeller
-Download model checkpoints fra: (Jeg brugte bare default i begge tilfælde)
-https://github.com/CASIA-IVA-Lab/FastSAM
+# Modeller
+Download model checkpoints fra: (Jeg brugte bare default i begge tilfælde) <br>
 
-https://github.com/facebookresearch/segment-anything 
-## BOOKS
+
+# BOOKS
 [Bradski, G. and Kaehler, A. (2008) Learning OpenCV, Learning OpenCV.](https://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf)
 
 [Concise Computer Vision An Introduction into Theory and Algorithms](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Concise%20Computer%20Vision_%20An%20Introduction%20into%20Theory%20and%20Algorithms%20%5BKlette%202014-01-20%5D.pdf)
@@ -21,18 +20,41 @@ https://github.com/facebookresearch/segment-anything
 [Hands-On Computer Vision with TensorFlow 2](https://www.wolf.university/hands-oncomputervisionwithtensorflow2/ebook/hands-oncomputervisionwithtensorflow2.pdf)
 - chapter 12, has subsection of disparity, and important point on rectifyity
 
-## Research papers
-### Instance segmentation papers
+# Research papers
+keywords: 
+- "stereo vision" AND "distance estimation" AND "neural networks"
+- "instance segmentation" AND "neural networks"
 
-[Segment anything](https://arxiv.org/pdf/2304.02643.pdf)
+## Instance segmentation papers
 
-[A COMPREHENSIVE REVIEW OF YOLO ARCHITECTURES IN COMPUTER VISION: FROM YOLOV1 TO YOLOV8 AND YOLO-NAS](https://arxiv.org/pdf/2304.00501.pdf)
+### 2015
+Fast R-CNN: <br>
+[Girshick, R. (2015) ‘Fast R-CNN’, Proceedings of the IEEE International Conference on Computer Vision, 2015 International Conference on Computer Vision, ICCV 2015, pp. 1440–1448. Available at: https://doi.org/10.1109/ICCV.2015.169.](https://arxiv.org/pdf/1506.01497.pdf)
 
-[Mask R CNN](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
+Fast R-CNN: <br>
+[Girshick, R. (2015) ‘Fast R-CNN’, Proceedings of the IEEE International Conference on Computer Vision, 2015 International Conference on Computer Vision, ICCV 2015, pp. 1440–1448. Available at: https://doi.org/10.1109/ICCV.2015.169.](https://arxiv.org/pdf/1504.08083.pdf)
+
+### 2017
+FCNN: <br>
+[Shelhamer, E., Long, J. and Darrell, T. (2017) ‘Fully Convolutional Networks for Semantic Segmentation’, IEEE Transactions on Pattern Analysis and Machine Intelligence, 39(4). Available at: https://doi.org/10.1109/TPAMI.2016.2572683.](https://arxiv.org/pdf/1411.4038.pdf)
+
+### 2020
+Mask R-CNN: <br>
+[He, K. et al. (2020) ‘Mask R-CNN’, IEEE Transactions on Pattern Analysis and Machine Intelligence, 42(2). Available at: https://doi.org/10.1109/TPAMI.2018.2844175.](https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
+
+### 2023
+Segment Anything: <br>
+[Kirillov, A. et al. (2023) ‘Segment Anything’. Available at: http://arxiv.org/abs/2304.02643.](https://arxiv.org/pdf/2304.02643.pdf)<br>
+[- Segment Anything github](https://github.com/facebookresearch/segment-anything)
+
+YOLO review: <br>
+[Terven, J. and Cordova-Esparza, D. (2023) ‘A Comprehensive Review of YOLO: From YOLOv1 and Beyond’, pp. 1–36. Available at: http://arxiv.org/abs/2304.00501.](https://arxiv.org/pdf/2304.00501.pdf)
+
+[Zhao, X. et al. (2023) ‘Fast Segment Anything’, 2. Available at: http://arxiv.org/abs/2306.12156.](https://arxiv.org/pdf/2306.12156.pdf)<br>
+[- Fast Segment Anything github](https://github.com/CASIA-IVA-Lab/FastSAM)
 
 
-google_scholar: "stereo vision" AND "distance estimation" AND "neural networks"
-### Stereo vision disparity estimation papers
+## Stereo vision disparity estimation papers
 
 [Gidaris, S. and Komodakis, N. (2017) ‘Detect, replace, refine: Deep structured prediction for pixel wise labeling’, in Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017.](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gidaris_Detect_Replace_Refine_CVPR_2017_paper.pdf)
 
@@ -42,35 +64,34 @@ google_scholar: "stereo vision" AND "distance estimation" AND "neural networks"
 
 [Seki, A. and Pollefeys, M. (2016) ‘Patch based confidence prediction for dense disparity map’, in British Machine Vision Conference 2016, BMVC 2016.](https://www.cvlibs.net/projects/autonomous_vision_survey/literature/Seki2016BMVC.pdf)
 
-### litterature review READ THIS
+## litterature review READ THIS
 
 [Lahiri, S., Ren, J. and Lin, X. (2024) ‘Deep Learning-Based Stereopsis and Monocular Depth Estimation Techniques : A Review’, pp. 305–351.](https://www.mdpi.com/2624-8921/6/1/13) <br>
-this litterature revies, cites: 
 this litterature review, compares CRL, SsMNet, PSMNet, EdgeStereo, HSM, MCV-MFC, HITNet, OptStereo, PVSereo, SMAR-Net, CRAR, ACVNet, iRaftStereo, PCW-Net, CGI-Stereo
 
-### traditional stereo vision papers
+## traditional stereo vision papers
 
 the beggining of stereo vision:<br>
 [Marr, D. and Poggio, T. (1976) ‘Cooperative computation of stereo disparity’](https://apps.dtic.mil/sti/tr/pdf/ADA030748.pdf)
 
 
 
-### neural network AND stereo imaging papers
+## neural network AND stereo imaging papers
 * mentioned in litterature review
 
-#### 2015
+### 2015
 *MC-CNN 2016 (maybe first deep learning solution):<br>
 [Žbontar, J. and LeCun, Y. (2015) ‘Computing the stereo matching cost with a convolutional neural network’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition.](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zbontar_Computing_the_Stereo_2015_CVPR_paper.pdf)<br>
 [- MC-CNN github](https://github.com/jzbontar/mc-cnn)
 
-#### 2016
+### 2016
 Content-CNN 2016:<br>
 [Luo, W., Schwing, A.G. and Urtasun, R. (2016) ‘Efficient deep learning for stereo matching’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition.](https://www.cs.toronto.edu/~urtasun/publications/luo_etal_cvpr16.pdf)
 
 *MC-CNN-acrt/fast: comparison of different stereo matching algorithms, great explanations:<br>
 [Žbontar, J. and LeCun, Y. (2016) ‘Stereo matching by training a convolutional neural network to compare image patches’, Journal of Machine Learning Research, 17.](https://www.jmlr.org/papers/volume17/15-535/15-535.pdf)
 
-#### 2017
+### 2017
 GC-Net 2017:<br>
 [Kendall, A. et al. (2017) ‘End-to-End Learning of Geometry and Context for Deep Stereo Regression’, Proceedings of the IEEE International Conference on Computer Vision, 2017-Octob, pp. 66–75.](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kendall_End-To-End_Learning_of_ICCV_2017_paper.pdf)
 
@@ -85,7 +106,7 @@ GC-Net 2017:<br>
 *SsSMnet 2017<br>
 [Zhong, Y., Dai, Y. and Li, H. (2017) ‘Self-Supervised Learning for Stereo Matching with Self-Improving Ability’.](https://arxiv.org/pdf/1709.00930.pdf)
 
-#### 2018
+### 2018
 *PSMnet 2018 w/github :<br>
 [Chang, J.R. and Chen, Y.S. (2018) ‘Pyramid Stereo Matching Network’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2018.00567.](https://arxiv.org/pdf/1803.08669.pdf)<br>
 [- PSMnet github](https://github.com/JiaRenChang/ PSMNet/tree/master)
@@ -97,7 +118,7 @@ GC-Net 2017:<br>
 *DispNet 2018:<br>
 [Mayer, N. et al. (2018) ‘What Makes Good Synthetic Training Data for Learning Disparity and Optical Flow Estimation?’, International Journal of Computer Vision, 126(9). Available at: https://doi.org/10.1007/s11263-018-1082-6.](https://arxiv.org/pdf/1801.06397.pdf)
 
-#### 2019
+### 2019
 comparing stereo and mono depth estimation:<br>
 [Smolyanskiy, N., Kamenev, A. and Birchfield, S. (2018) ‘On the importance of stereo for accurate depth estimation: An efficient semi-supervised deep neural network approach’, in IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops.](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Smolyanskiy_On_the_Importance_CVPR_2018_paper.pdf)
 
@@ -110,7 +131,7 @@ comparing stereo and mono depth estimation:<br>
 *GA-Net 2019:<br>
 [Zhang, F. et al. (2019) ‘GA-net: Guided aggregation net for end-to-end stereo matching’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2019.00027.](https://arxiv.org/pdf/1904.06587.pdf)
 
-#### 2020
+### 2020
 LEAStereo 2020<br>
 [Cheng, X. et al. (2020) ‘Hierarchical neural architecture search for deep stereo matching’, in Advances in Neural Information Processing Systems.](https://proceedings.neurips.cc/paper/2020/file/fc146be0b230d7e0a92e66a6114b840d-Paper.pdf)<br>
 [- LEAStereo github](https://github.com/XuelianCheng/LEAStereo)
@@ -129,7 +150,7 @@ MVSNet 2020:<br>
 [Zaarane, A. et al. (2020) ‘Distance measurement system for autonomous vehicles using stereo camera’, Array, 5.](https://arxiv.org/pdf/1804.02505.pdf)<br>
 [- MVSNet github](https://github.com/YoYo000/MVSNet)
 
-#### 2021
+### 2021
 *MCV-MFC 2021:<br>
 [Liang, Z. et al. (2021) ‘Stereo Matching Using Multi-Level Cost Volume and Multi-Scale Feature Constancy’, IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(1). Available at: https://doi.org/10.1109/TPAMI.2019.2928550.](https://ieeexplore.ieee.org/abstract/document/8765737)
 
@@ -143,7 +164,7 @@ MVSNet 2020:<br>
 SMAR-Net 2021:<br>
 [Wang, C. et al. (2021) ‘Self-Supervised Multiscale Adversarial Regression Network for Stereo Disparity Estimation’, IEEE Transactions on Cybernetics, 51(10). Available at: https://doi.org/10.1109/TCYB.2020.2999492.](https://ieeexplore.ieee.org/document/9138704)
 
-#### 2022
+### 2022
 *iRaftStereo 2022:<br>
 [Jiang, H., Xu, R. and Jiang, W. (2022) ‘An Improved RaftStereo Trained with A Mixed Dataset for the Robust Vision Challenge 2022’, pp. 1–9. Available at: http://arxiv.org/abs/2210.12785.](https://arxiv.org/pdf/2210.12785.pdf)
 
@@ -153,21 +174,20 @@ SMAR-Net 2021:<br>
 *CRAR 2022:<br>
 [Zeng, L. and Tian, X. (2022) ‘CRAR: Accelerating Stereo Matching with Cascaded Residual Regression and Adaptive Refinement’, ACM Transactions on Multimedia Computing, Communications and Applications, 18(3). Available at: https://doi.org/10.1145/3488719.]()
 
-#### 2023
+### 2023
 *CGI-Stereo 2023:<br>
 [Xu, G., Zhou, H. and Yang, X. (2023) ‘CGI-Stereo: Accurate and Real-Time Stereo Matching via Context and Geometry Interaction’. Available at: http://arxiv.org/abs/2301.02789.](https://arxiv.org/pdf/2301.02789.pdf)<br>
 [- CGI-Stereo github](https://github.com/gangweiX/CGI-Stereo)
 
-#### 2024
+### 2024
 
-### table model overview
-| Model | Year | depth method | network | training method | 
+## table model overview
+| Model | Year | depth method | network | training method |
 
- 89, 65, 68, 69, 70, 72
 ## 3D imaging not stereo image papers
 [Zhou, C. et al. (2015) ‘Exploiting object similarity in 3D reconstruction’, Proceedings of the IEEE International Conference on Computer Vision, 2015 International Conference on Computer Vision, ICCV 2015, pp. 2201–2209.](https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Exploiting_Object_Similarity_ICCV_2015_paper.pdf)
 
-## Non_research links 
+# Non_research links 
 
 [Nielsen, N. (2020) From Beginner to Expert: How to Master Stereo Vision and Depth Estimation with OpenCV C++ and Python.](https://www.youtube.com/watch?v=KOSS24P3_fY)
 
