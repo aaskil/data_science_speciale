@@ -12,24 +12,18 @@ import matplotlib.pyplot as plt
 
 
 class DatasetFolder(Dataset):
-    def __init__(self, datapath, list_filename, training, subset = False, subset_size = 20):
+    def __init__(self, datapath, list_filename, training):
         self.datapath = datapath
         self.left_filenames, self.right_filenames, self.disp_filenames = self.load_path(list_filename)
         self.training = training
 
-        if subset:
-            self.select_subset(subset_size)
-
-    def select_subset(self, subset_size):
-        indices = random.sample(range(len(self.left_filenames)), subset_size)
-        self.left_filenames = [self.left_filenames[i] for i in indices]
 
     def load_path(self, list_filename):
         lines = read_all_lines(list_filename)
         splits = [line.split() for line in lines]
-        left_images  = [x[0] for x in splits]
-        right_images = [x[1] for x in splits]
-        disp_images  = [x[2] for x in splits]
+        left_images  = [x[0].replace('/', os.sep) for x in splits]
+        right_images = [x[1].replace('/', os.sep) for x in splits]
+        disp_images  = [x[2].replace('/', os.sep) for x in splits]
         return left_images, right_images, disp_images
 
     def load_image(self, filename):

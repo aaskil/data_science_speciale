@@ -34,6 +34,8 @@ februar 20.
 - litteratur review på object segmentation
     - segmentation ikke detection
     - instance segmentation ikke semantic segmentation eller panoptic segmentation
+        - vi vil bare have en maske for hvert objekt, ikke alle pixels
+    - Påbegyndt EVA og MMSegmentation til instance segmentation.
 
 februar 21.
 - Jonas
@@ -43,3 +45,15 @@ februar 21.
     - https://roboflow.com/models/instance-segmentation Her findes state-of-the-art og most commonly used modeller til instance segmentation, samt guides mm. Roboflow can ligeledes bruges til at generere dataset, lave augmentation og generere test/train/validation sets.
 
     
+
+februar 19.
+- fået CGI-net op at køre. problem med gpu og 'mps'
+- fået SAM op at køre
+
+februar 20.
+- trænet CGI-net, 5 epoker, 20 samples
+- litteratur review på object segmentation
+    - segmentation ikke detection
+    - instance segmentation ikke semantic segmentation eller panoptic segmentation
+        - vi vil bare have en maske for hvert objekt, ikke alle pixels
+    - Påbegyndt EVA og MMSegmentation til instance segmentation.

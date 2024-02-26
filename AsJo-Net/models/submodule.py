@@ -216,7 +216,7 @@ def context_upsample(depth_low, up_weights):
     depth_unfold = F.interpolate(depth_unfold,(h*4,w*4),mode='nearest').reshape(b,9,h*4,w*4)
 
     depth = (depth_unfold*up_weights).sum(1)
-        
+
     return depth
 
 
