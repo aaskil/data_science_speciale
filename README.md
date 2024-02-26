@@ -27,8 +27,6 @@ keywords:
 
 ## Instance segmentation papers
 
-[Yolov9](https://arxiv.org/pdf/2402.13616v1.pdf)
-
 ### 2015
 Fast R-CNN: <br>
 [Girshick, R. (2015) ‘Fast R-CNN’, Proceedings of the IEEE International Conference on Computer Vision, 2015 International Conference on Computer Vision, ICCV 2015, pp. 1440–1448. Available at: https://doi.org/10.1109/ICCV.2015.169.](https://arxiv.org/pdf/1506.01497.pdf)
@@ -52,9 +50,25 @@ Segment Anything: <br>
 YOLO review: <br>
 [Terven, J. and Cordova-Esparza, D. (2023) ‘A Comprehensive Review of YOLO: From YOLOv1 and Beyond’, pp. 1–36. Available at: http://arxiv.org/abs/2304.00501.](https://arxiv.org/pdf/2304.00501.pdf)
 
+Fast Segment Anything: <br>
 [Zhao, X. et al. (2023) ‘Fast Segment Anything’, 2. Available at: http://arxiv.org/abs/2306.12156.](https://arxiv.org/pdf/2306.12156.pdf)<br>
 [- Fast Segment Anything github](https://github.com/CASIA-IVA-Lab/FastSAM)
 
+### 2024
+YOLOv9: <br>
+[Wang, C.-Y., Yeh, I.-H. and Liao, H.-Y.M. (2024) ‘YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information’. Available at: http://arxiv.org/abs/2402.13616.](https://arxiv.org/pdf/2402.13616v1.pdf)
+[- YOLOv9 github](https://github.com/WongKinYiu/yolov9)
+
+## Instance segmentation dataset papers
+
+coco dataset:<br>
+[Lin, T.Y. et al. (2014) ‘Microsoft COCO: Common objects in context’, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Available at: https://doi.org/10.1007/978-3-319-10602-1_48.](https://arxiv.org/pdf/1405.0312.pdf)
+
+LVIS dataset:<br>
+[Gupta, A., Dollar, P. and Girshick, R. (2019) ‘Lvis: A dataset for large vocabulary instance segmentation’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2019.00550.](https://arxiv.org/pdf/1908.03195.pdf)
+
+SA-1B dataset, same paper for dataset as the model:<br>
+[Kirillov, A. et al. (2023) ‘Segment Anything’. Available at: http://arxiv.org/abs/2304.02643.](https://arxiv.org/pdf/2304.02643.pdf)<br>
 
 ## Stereo vision disparity estimation papers
 
@@ -87,6 +101,10 @@ the beggining of stereo vision:<br>
 [- MC-CNN github](https://github.com/jzbontar/mc-cnn)
 
 ### 2016
+FlowNet 2.0 2016:<br>
+[Ilg, E. et al. (2017) ‘FlowNet 2.0: Evolution of optical flow estimation with deep networks’, in Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017. Available at: https://doi.org/10.1109/CVPR.2017.179.](https://arxiv.org/pdf/1612.01925.pdf)<br>
+[- FlowNet 2.0 github](https://github.com/NVIDIA/flownet2-pytorch)
+
 Content-CNN 2016:<br>
 [Luo, W., Schwing, A.G. and Urtasun, R. (2016) ‘Efficient deep learning for stereo matching’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition.](https://www.cs.toronto.edu/~urtasun/publications/luo_etal_cvpr16.pdf)
 
@@ -182,6 +200,14 @@ SMAR-Net 2021:<br>
 [- CGI-Stereo github](https://github.com/gangweiX/CGI-Stereo)
 
 ### 2024
+
+## Neural network AND stereo imaging dataset papers
+
+DTU dataset:<br>
+[Jensen, R. et al. (2014) ‘Large scale multi-view stereopsis evaluation’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2014.59.](https://backend.orbit.dtu.dk/ws/portalfiles/portal/143897869/hkkr_Large_scale_data_for_multiple_view_stereopsis.pdf)
+
+Sceneflow:<br>
+[Mayer, N. et al. (2016) ‘A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2016.438.](https://lmb.informatik.uni-freiburg.de/Publications/2016/MIFDB16/paper-MIFDB16.pdf)
 
 ## table model overview
 | Model | Year | depth method | network | training method |
