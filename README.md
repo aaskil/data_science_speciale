@@ -27,6 +27,8 @@ keywords:
 
 ## Instance segmentation papers
 
+[Yolov9](https://arxiv.org/pdf/2402.13616v1.pdf)
+
 ### 2015
 Fast R-CNN: <br>
 [Girshick, R. (2015) ‘Fast R-CNN’, Proceedings of the IEEE International Conference on Computer Vision, 2015 International Conference on Computer Vision, ICCV 2015, pp. 1440–1448. Available at: https://doi.org/10.1109/ICCV.2015.169.](https://arxiv.org/pdf/1506.01497.pdf)
