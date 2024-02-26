@@ -1,5 +1,19 @@
 # data_science_speciale
 
+# Stereo vision camera calibration
+Loop, C. and Zhang, Z. 1999. Computing rectifying homographies
+for stereo vision. In CVPR, Vol. I, pp. 125–131.
+
+Zhang, Z. 1998. Determining the epipolar geometry and its uncer- tainty: A review. IJCV, 27(2):161–195.
+
+Zhang, Z. 2000. A flexible new technique for camera calibration. IEEE TPAMI, 22(11):1330–1334.
+
+Hartley, R.I. and Zisserman, A. 2000. Multiple Views Geometry.
+Cambridge University Press: Cambridge, UK.
+
+Faugeras, O. and Luong, Q.-T. 2001. The Geometry of Multiple Im-
+ages. MIT Press: Cambridge, MA.
+
 # Modeller
 Download model checkpoints fra: (Jeg brugte bare default i begge tilfælde) <br>
 
