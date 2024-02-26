@@ -1,6 +1,8 @@
 # data_science_speciale
 
 # Stereo vision camera calibration
+[Scharstein, D. and Szeliski, R. (2002) ‘A taxonomy and evaluation of dense two-frame stereo correspondence algorithms’, International Journal of Computer Vision, 47(1–3).](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf)
+
 Loop, C. and Zhang, Z. 1999. Computing rectifying homographies
 for stereo vision. In CVPR, Vol. I, pp. 125–131.
 
