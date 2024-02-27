@@ -47,6 +47,8 @@ robot arm used to move single calibration object to 6000 locations in regars to 
 [Scharstein, D. and Szeliski, R. (2002) ‘A taxonomy and evaluation of dense two-frame stereo correspondence algorithms’, International Journal of Computer Vision, 47(1–3).](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf)
 
 Proving the importance of parallel setup:<br>
+[Symmetric Stereo Matching for Occlusion Handling](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/symmetricstereo_cvpr05.pdf)
+
 [Loop, C. and Zhang, Z. (1999) ‘Computing rectifying homographies for stereo vision’, Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 1. Available at: https://doi.org/10.1109/cvpr.1999.786928.](http://dev.ipol.im/~morel/Dossier_MVA_2011_Cours_Transparents_Documents/2011_Cours7_Document2_Loop-Zhang-CVPR1999.pdf)
 
 [Zhang, Z. (1998) ‘Determining the Epipolar Geometry and its Uncertainty: A Review’, International Journal of Computer Vision. Available at: https://doi.org/10.1023/A:1007941100561.](https://www.cs.auckland.ac.nz/courses/compsci773s1c/resources/IJCV-Review.pdf)
