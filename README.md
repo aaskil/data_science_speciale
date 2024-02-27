@@ -1,27 +1,5 @@
 # data_science_speciale
 
-# Stereo vision camera calibration
-[Scharstein, D. and Szeliski, R. (2002) ‘A taxonomy and evaluation of dense two-frame stereo correspondence algorithms’, International Journal of Computer Vision, 47(1–3).](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf)
-
-Gyldige referencer:
-[Uncalibrated stereo vision with deep learning for 6-DOF pose estimation for a robot arm system](https://www.sciencedirect.com/science/article/pii/S0921889021001329)
-
-[Computing Rectifying Homographies for Stereo Vision](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr99-21.pdf)
-
-
-Zhang, Z. 1998. Determining the epipolar geometry and its uncer- tainty: A review. IJCV, 27(2):161–195.
-
-Zhang, Z. 2000. A flexible new technique for camera calibration. IEEE TPAMI, 22(11):1330–1334.
-
-Hartley, R.I. and Zisserman, A. 2000. Multiple Views Geometry.
-Cambridge University Press: Cambridge, UK.
-
-Faugeras, O. and Luong, Q.-T. 2001. The Geometry of Multiple Images. MIT Press: Cambridge, MA.
-
-# Modeller
-Download model checkpoints fra: (Jeg brugte bare default i begge tilfælde) <br>
-
-
 # BOOKS
 [Bradski, G. and Kaehler, A. (2008) Learning OpenCV, Learning OpenCV.](https://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf)
 
@@ -42,6 +20,23 @@ Download model checkpoints fra: (Jeg brugte bare default i begge tilfælde) <br>
 keywords: 
 - "stereo vision" AND "distance estimation" AND "neural networks"
 - "instance segmentation" AND "neural networks"
+
+
+## Stereo vision camera calibration
+[Scharstein, D. and Szeliski, R. (2002) ‘A taxonomy and evaluation of dense two-frame stereo correspondence algorithms’, International Journal of Computer Vision, 47(1–3).](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf)
+
+Gyldige referencer:
+[Uncalibrated stereo vision with deep learning for 6-DOF pose estimation for a robot arm system](https://www.sciencedirect.com/science/article/pii/S0921889021001329)
+
+Loop, C. and Zhang, Z. 1999. Computing rectifying homographies for stereo vision. In CVPR, Vol. I, pp. 125–131.
+
+Zhang, Z. 1998. Determining the epipolar geometry and its uncertainty: A review. IJCV, 27(2):161–195.
+
+Zhang, Z. 2000. A flexible new technique for camera calibration. IEEE TPAMI, 22(11):1330–1334.
+
+Hartley, R.I. and Zisserman, A. 2000. Multiple Views Geometry. Cambridge University Press: Cambridge, UK.
+
+Faugeras, O. and Luong, Q.-T. 2001. The Geometry of Multiple Images. MIT Press: Cambridge, MA.
 
 ## Instance segmentation papers
 
