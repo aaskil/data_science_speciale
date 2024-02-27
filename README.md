@@ -4,7 +4,7 @@
 [Scharstein, D. and Szeliski, R. (2002) ‘A taxonomy and evaluation of dense two-frame stereo correspondence algorithms’, International Journal of Computer Vision, 47(1–3).](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf)
 
 Gyldige referencer:
-[Uncalibrated stereo vision with deep learning for 6-DOF pose estimation for a robot arm system]
+[Uncalibrated stereo vision with deep learning for 6-DOF pose estimation for a robot arm system](https://www.sciencedirect.com/science/article/pii/S0921889021001329)
 
 
 
