@@ -3,6 +3,11 @@
 # Stereo vision camera calibration
 [Scharstein, D. and Szeliski, R. (2002) ‘A taxonomy and evaluation of dense two-frame stereo correspondence algorithms’, International Journal of Computer Vision, 47(1–3).](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf)
 
+Gyldige referencer:
+[Uncalibrated stereo vision with deep learning for 6-DOF pose estimation for a robot arm system]
+
+
+
 Loop, C. and Zhang, Z. 1999. Computing rectifying homographies
 for stereo vision. In CVPR, Vol. I, pp. 125–131.
 
@@ -13,8 +18,7 @@ Zhang, Z. 2000. A flexible new technique for camera calibration. IEEE TPAMI, 22(
 Hartley, R.I. and Zisserman, A. 2000. Multiple Views Geometry.
 Cambridge University Press: Cambridge, UK.
 
-Faugeras, O. and Luong, Q.-T. 2001. The Geometry of Multiple Im-
-ages. MIT Press: Cambridge, MA.
+Faugeras, O. and Luong, Q.-T. 2001. The Geometry of Multiple Images. MIT Press: Cambridge, MA.
 
 # Modeller
 Download model checkpoints fra: (Jeg brugte bare default i begge tilfælde) <br>
