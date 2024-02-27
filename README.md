@@ -21,22 +21,29 @@ keywords:
 - "stereo vision" AND "distance estimation" AND "neural networks"
 - "instance segmentation" AND "neural networks"
 
+## Domain/Case specific papers on bin picking for data size argument
+
+robot arm used to move single calibration object to 6000 locations in regars to calibration of stereo vision camera. using parallell setup:<br>
+[Abdelaal, M. et al. (2021) ‘Uncalibrated stereo vision with deep learning for 6-DOF pose estimation for a robot arm system’, Robotics and Autonomous Systems, 145. Available at: https://doi.org/10.1016/j.robot.2021.103847.](https://www.sciencedirect.com/science/article/pii/S0921889021001329)
+
+590 itemsets(l,r,disparity), 12 workpieces <br>
+[Khalid, M.U. et al. (2019) ‘Deep workpiece region segmentation for bin picking’, in IEEE International Conference on Automation Science and Engineering. Available at: https://doi.org/10.1109/COASE.2019.8843050.](https://arxiv.org/pdf/1909.03462.pdf)
+
 
 ## Stereo vision camera calibration
 [Scharstein, D. and Szeliski, R. (2002) ‘A taxonomy and evaluation of dense two-frame stereo correspondence algorithms’, International Journal of Computer Vision, 47(1–3).](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf)
 
-Gyldige referencer:
-[Uncalibrated stereo vision with deep learning for 6-DOF pose estimation for a robot arm system](https://www.sciencedirect.com/science/article/pii/S0921889021001329)
+Proving the importance of parallel setup:<br>
+[Loop, C. and Zhang, Z. (1999) ‘Computing rectifying homographies for stereo vision’, Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 1. Available at: https://doi.org/10.1109/cvpr.1999.786928.](http://dev.ipol.im/~morel/Dossier_MVA_2011_Cours_Transparents_Documents/2011_Cours7_Document2_Loop-Zhang-CVPR1999.pdf)
 
-Loop, C. and Zhang, Z. 1999. Computing rectifying homographies for stereo vision. In CVPR, Vol. I, pp. 125–131.
+[Zhang, Z. (1998) ‘Determining the Epipolar Geometry and its Uncertainty: A Review’, International Journal of Computer Vision. Available at: https://doi.org/10.1023/A:1007941100561.](https://www.cs.auckland.ac.nz/courses/compsci773s1c/resources/IJCV-Review.pdf)
 
-Zhang, Z. 1998. Determining the epipolar geometry and its uncertainty: A review. IJCV, 27(2):161–195.
+[Zhang, Z. (2000) ‘A flexible new technique for camera calibration’, IEEE Transactions on Pattern Analysis and Machine Intelligence, 22(11). Available at: https://doi.org/10.1109/34.888718.](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr98-71.pdf)
 
-Zhang, Z. 2000. A flexible new technique for camera calibration. IEEE TPAMI, 22(11):1330–1334.
+[Hartley, R. and Zisserman, A. (2004) Multiple View Geometry in Computer Vision, Multiple View Geometry in Computer Vision. Available at: https://doi.org/10.1017/cbo9780511811685.](https://github.com/DeepRobot2020/books/blob/master/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
 
-Hartley, R.I. and Zisserman, A. 2000. Multiple Views Geometry. Cambridge University Press: Cambridge, UK.
-
-Faugeras, O. and Luong, Q.-T. 2001. The Geometry of Multiple Images. MIT Press: Cambridge, MA.
+is book cannot find pdf<br>
+[Faugeras, O. and Luong, Q.-T. (2018) The Geometry of Multiple Images, The Geometry of Multiple Images. Available at: https://doi.org/10.7551/mitpress/3259.001.0001.](https://mitpress.mit.edu/9780262562041/the-geometry-of-multiple-images/)
 
 ## Instance segmentation papers
 
@@ -102,7 +109,6 @@ this litterature review, compares CRL, SsMNet, PSMNet, EdgeStereo, HSM, MCV-MFC,
 
 the beggining of stereo vision:<br>
 [Marr, D. and Poggio, T. (1976) ‘Cooperative computation of stereo disparity’](https://apps.dtic.mil/sti/tr/pdf/ADA030748.pdf)
-
 
 
 ## neural network AND stereo imaging papers
