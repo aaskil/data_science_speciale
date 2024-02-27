@@ -26,6 +26,8 @@
 keywords: 
 - "stereo vision" AND "distance estimation" AND "neural networks"
 - "instance segmentation" AND "neural networks"
+- "bin picking" AND "distance" AND "neural Network"
+- "computer vision" AND dataset AND (collect OR gather OR generate)
 
 
 
@@ -35,6 +37,9 @@ robot arm used to move single calibration object to 6000 locations in regars to 
 
 590 itemsets(l,r,disparity), 12 workpieces <br>
 [Khalid, M.U. et al. (2019) ‘Deep workpiece region segmentation for bin picking’, in IEEE International Conference on Automation Science and Engineering. Available at: https://doi.org/10.1109/COASE.2019.8843050.](https://arxiv.org/pdf/1909.03462.pdf)
+
+153 imagesets, 1 workpiece, maching scope of study<br>
+[Davies, R. (2012) Computer and Machine Vision, 4th Edition Theory, Algorithms, Practicalities Opsylum, Zhurnal Eksperimental’noi i Teoreticheskoi Fiziki.](https://www.mdpi.com/1424-8220/19/16/3602)
 
 
 
@@ -48,9 +53,10 @@ Proving the importance of parallel setup:<br>
 
 [Zhang, Z. (2000) ‘A flexible new technique for camera calibration’, IEEE Transactions on Pattern Analysis and Machine Intelligence, 22(11). Available at: https://doi.org/10.1109/34.888718.](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr98-71.pdf)
 
+BOOK<br>
 [Hartley, R. and Zisserman, A. (2004) Multiple View Geometry in Computer Vision, Multiple View Geometry in Computer Vision. Available at: https://doi.org/10.1017/cbo9780511811685.](https://github.com/DeepRobot2020/books/blob/master/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
 
-is book cannot find pdf<br>
+BOOK cannot find pdf<br>
 [Faugeras, O. and Luong, Q.-T. (2018) The Geometry of Multiple Images, The Geometry of Multiple Images. Available at: https://doi.org/10.7551/mitpress/3259.001.0001.](https://mitpress.mit.edu/9780262562041/the-geometry-of-multiple-images/)
 
 
@@ -134,9 +140,6 @@ the beggining of stereo vision:<br>
 [- MC-CNN github](https://github.com/jzbontar/mc-cnn)
 
 ### 2016
-FlowNet 2.0 2016:<br>
-[Ilg, E. et al. (2017) ‘FlowNet 2.0: Evolution of optical flow estimation with deep networks’, in Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017. Available at: https://doi.org/10.1109/CVPR.2017.179.](https://arxiv.org/pdf/1612.01925.pdf)<br>
-[- FlowNet 2.0 github](https://github.com/NVIDIA/flownet2-pytorch)
 
 Content-CNN 2016:<br>
 [Luo, W., Schwing, A.G. and Urtasun, R. (2016) ‘Efficient deep learning for stereo matching’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition.](https://www.cs.toronto.edu/~urtasun/publications/luo_etal_cvpr16.pdf)
@@ -145,6 +148,10 @@ Content-CNN 2016:<br>
 [Žbontar, J. and LeCun, Y. (2016) ‘Stereo matching by training a convolutional neural network to compare image patches’, Journal of Machine Learning Research, 17.](https://www.jmlr.org/papers/volume17/15-535/15-535.pdf)
 
 ### 2017
+FlowNet 2.0 2017:<br>
+[Ilg, E. et al. (2017) ‘FlowNet 2.0: Evolution of optical flow estimation with deep networks’, in Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017. Available at: https://doi.org/10.1109/CVPR.2017.179.](https://arxiv.org/pdf/1612.01925.pdf)<br>
+[- FlowNet 2.0 github](https://github.com/NVIDIA/flownet2-pytorch)
+
 GC-Net 2017:<br>
 [Kendall, A. et al. (2017) ‘End-to-End Learning of Geometry and Context for Deep Stereo Regression’, Proceedings of the IEEE International Conference on Computer Vision, 2017-Octob, pp. 66–75.](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kendall_End-To-End_Learning_of_ICCV_2017_paper.pdf)
 
