@@ -6,10 +6,8 @@
 Gyldige referencer:
 [Uncalibrated stereo vision with deep learning for 6-DOF pose estimation for a robot arm system](https://www.sciencedirect.com/science/article/pii/S0921889021001329)
 
+[Computing Rectifying Homographies for Stereo Vision](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr99-21.pdf)
 
-
-Loop, C. and Zhang, Z. 1999. Computing rectifying homographies
-for stereo vision. In CVPR, Vol. I, pp. 125–131.
 
 Zhang, Z. 1998. Determining the epipolar geometry and its uncer- tainty: A review. IJCV, 27(2):161–195.
 
