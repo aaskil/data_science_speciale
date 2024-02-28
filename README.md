@@ -46,9 +46,9 @@ robot arm used to move single calibration object to 6000 locations in regars to 
 ## Stereo vision camera calibration
 [Scharstein, D. and Szeliski, R. (2002) ‘A taxonomy and evaluation of dense two-frame stereo correspondence algorithms’, International Journal of Computer Vision, 47(1–3).](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf)
 
-Proving the importance of parallel setup:<br>
-[Symmetric Stereo Matching for Occlusion Handling](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/symmetricstereo_cvpr05.pdf)
+[Sun, J. et al. (2005) ‘Symmetric stereo matching for occlusion handling’, in Proceedings - 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, CVPR 2005. Available at: https://doi.org/10.1109/CVPR.2005.337.](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/symmetricstereo_cvpr05.pdf)
 
+Proving the importance of parallel setup:<br>
 [Loop, C. and Zhang, Z. (1999) ‘Computing rectifying homographies for stereo vision’, Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 1. Available at: https://doi.org/10.1109/cvpr.1999.786928.](http://dev.ipol.im/~morel/Dossier_MVA_2011_Cours_Transparents_Documents/2011_Cours7_Document2_Loop-Zhang-CVPR1999.pdf)
 
 [Zhang, Z. (1998) ‘Determining the Epipolar Geometry and its Uncertainty: A Review’, International Journal of Computer Vision. Available at: https://doi.org/10.1023/A:1007941100561.](https://www.cs.auckland.ac.nz/courses/compsci773s1c/resources/IJCV-Review.pdf)
@@ -259,6 +259,12 @@ Sceneflow:<br>
 
 
 
+# Lectures
+Good explanation of the stereo vision disparity problem lecture 8, 9<br>
+[Computer vision 1, Penn State University 2007](https://www.cse.psu.edu/~rtc12/CSE486/)
+
+
+
 # Non_research links 
 [Nielsen, N. (2020) From Beginner to Expert: How to Master Stereo Vision and Depth Estimation with OpenCV C++ and Python.](https://www.youtube.com/watch?v=KOSS24P3_fY)
 
@@ -287,6 +293,8 @@ Sceneflow:<br>
 [kitti](https://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo)
 
 [learn_open_cv](https://learnopencv.com/disparity-estimation-using-deep-learning/)
+
+[CVFX Lecture 15: Stereo correspondence](https://www.youtube.com/watch?v=kxsvG4sSuvA)
 
 ## table model overview
 | Model | Year | depth method | network | training method |
