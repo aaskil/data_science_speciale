@@ -1,3 +1,17 @@
+## Fredag 1. marts - CMD
+
+Kig på det her til næste gang:
+- Kamera setup
+    - 1 artikel om distance på kameraerne
+    - rationelle beslutninger der bygger på generelle modeller er nok argumentation for setup, kalibrering
+- Link mellem  point set registration og disparity estimation
+    - Feature learning on point sets
+- Segformer
+- Diskuter transformers
+    - Hvorfor er de gode i det her sammenhæng
+- Sample size - tag en beslutning, lav arguementation og hav det klar til næste
+- Send subset af data til CMD når tilgængeligt
+
 ## Fredag 16. feb - CMD
 
 Christian vil gerne snakke om afhandling (krav)
