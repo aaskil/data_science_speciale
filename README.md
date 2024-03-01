@@ -267,6 +267,11 @@ Sceneflow:<br>
 Good explanation of the stereo vision disparity problem lecture 8, 9<br>
 [Computer vision 1, Penn State University 2007](https://www.cse.psu.edu/~rtc12/CSE486/)
 
+[Computer Vision, Spring 2017, The Robotics Institute Carnegie Mellon University Logo](https://www.cs.cmu.edu/~16385/s17/)
+
+Lecture 15 on stereo correspondence<br>
+[Computer Vision for Visual Effects](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a)
+
 
 
 # Non_research links 
