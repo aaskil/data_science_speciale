@@ -64,6 +64,10 @@ BOOK cannot find pdf<br>
 
 
 ## Instance segmentation papers
+
+[VISION TRANSFORMER ADAPTER FOR DENSE PREDICTIONS](https://arxiv.org/pdf/2205.08534v4.pdf)(https://github.com/czczup/ViT-Adapter)
+[EVA: Exploring the Limits of Masked Visual Representation Learning at Scale](https://arxiv.org/pdf/2211.07636v2.pdf)(https://github.com/baaivision/EVA)
+
 ### 2015
 Fast R-CNN: <br>
 [Girshick, R. (2015) ‘Fast R-CNN’, Proceedings of the IEEE International Conference on Computer Vision, 2015 International Conference on Computer Vision, ICCV 2015, pp. 1440–1448. Available at: https://doi.org/10.1109/ICCV.2015.169.](https://arxiv.org/pdf/1506.01497.pdf)
