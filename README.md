@@ -30,6 +30,10 @@ keywords:
 - "computer vision" AND dataset AND (collect OR gather OR generate)
 
 
+## point cloud
+[Point Set Registration: Coherent Point Drift](https://arxiv.org/pdf/0905.2635.pdf)
+
+
 
 ## Domain/Case specific papers on bin picking for data size argument
 robot arm used to move single calibration object to 6000 locations in regars to calibration of stereo vision camera. using parallell setup:<br>
