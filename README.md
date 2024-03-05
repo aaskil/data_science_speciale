@@ -65,6 +65,10 @@ BOOK<br>
 BOOK cannot find pdf<br>
 [Faugeras, O. and Luong, Q.-T. (2018) The Geometry of Multiple Images, The Geometry of Multiple Images. Available at: https://doi.org/10.7551/mitpress/3259.001.0001.](https://mitpress.mit.edu/9780262562041/the-geometry-of-multiple-images/)
 
+testing different baseline distances:<br>
+[Setyawan, R.A. et al. (2018) ‘Measurement Accuracy Analysis of Distance between Cameras in Stereo Vision’, in 2018 Electrical Power, Electronics, Communications, Controls and Informatics Seminar, EECCIS 2018. Available at: https://doi.org/10.1109/EECCIS.2018.8692999.](https://ieeexplore-ieee-org.proxy1-bib.sdu.dk/stamp/stamp.jsp?tp=&arnumber=8692999)
+
+[Okutomi, M. and Kanade, T. (1993) ‘A Multiple-Baseline Stereo’, IEEE Transactions on Pattern Analysis and Machine Intelligence, 15(4). Available at: https://doi.org/10.1109/34.206955.](https://www.ri.cmu.edu/pub_files/pub2/okutomi_m_1993_1/okutomi_m_1993_1.pdf)
 
 
 ## Instance segmentation papers
@@ -139,6 +143,8 @@ this litterature review, compares CRL, SsMNet, PSMNet, EdgeStereo, HSM, MCV-MFC,
 the beggining of stereo vision:<br>
 [Marr, D. and Poggio, T. (1976) ‘Cooperative computation of stereo disparity’](https://apps.dtic.mil/sti/tr/pdf/ADA030748.pdf)
 
+Cross-based cost aggregation:<br>
+[https://ieeexplore-ieee-org.proxy1-bib.sdu.dk/stamp/stamp.jsp?tp=&arnumber=4811952](https://ieeexplore-ieee-org.proxy1-bib.sdu.dk/stamp/stamp.jsp?tp=&arnumber=4811952)
 
 
 ## neural network AND stereo imaging papers
