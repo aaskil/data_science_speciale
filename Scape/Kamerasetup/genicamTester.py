@@ -2,8 +2,8 @@ import os
 import numpy as np
 import signal
 
-from genicam.genapi import EInterfaceType, EAccessMode, TimeoutException, OutOfRangeException
-from genicam.gentl import GenericException as GenTL_GenericException
+from genicam2.genapi import EInterfaceType, EAccessMode, TimeoutException, OutOfRangeException
+from genicam2.gentl import GenericException as GenTL_GenericException
 import harvesters
 
 # Copy of ENUM from scape_toolbox::CCameraReturnCodes::CODES
