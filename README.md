@@ -71,6 +71,7 @@ testing different baseline distances:<br>
 [Okutomi, M. and Kanade, T. (1993) ‘A Multiple-Baseline Stereo’, IEEE Transactions on Pattern Analysis and Machine Intelligence, 15(4). Available at: https://doi.org/10.1109/34.206955.](https://www.ri.cmu.edu/pub_files/pub2/okutomi_m_1993_1/okutomi_m_1993_1.pdf)
 
 
+
 ## Instance segmentation papers
 
 [VISION TRANSFORMER ADAPTER FOR DENSE PREDICTIONS](https://arxiv.org/pdf/2205.08534v4.pdf)(https://github.com/czczup/ViT-Adapter)
