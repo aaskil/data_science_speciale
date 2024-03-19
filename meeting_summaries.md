@@ -12,6 +12,9 @@ Kig på det her til næste gang:
 - Sample size - tag en beslutning, lav arguementation og hav det klar til næste
 - Send subset af data til CMD når tilgængeligt
 
+## Torsdag 28. feb - Scape Technologies
+
+
 ## Fredag 16. feb - CMD
 
 Christian vil gerne snakke om afhandling (krav)
