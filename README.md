@@ -2,7 +2,7 @@
 
 
 
-
+<!-- ---------------------------------------------------------------------- -->
 # BOOKS
 [Bradski, G. and Kaehler, A. (2008) Learning OpenCV, Learning OpenCV.](https://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf)
 
@@ -21,7 +21,7 @@
 
 
 
-
+<!-- ---------------------------------------------------------------------- -->
 # Research papers
 keywords: 
 - "stereo vision" AND "distance estimation" AND "neural networks"
@@ -30,11 +30,14 @@ keywords:
 - "computer vision" AND dataset AND (collect OR gather OR generate)
 
 
+<!-- ---------------------------------------------------------------------- -->
 ## point cloud
-[Point Set Registration: Coherent Point Drift](https://arxiv.org/pdf/0905.2635.pdf)
+[Myronenko, A. and Song, X. (2010) ‘Point set registration: Coherent point drifts’, IEEE Transactions on Pattern Analysis and Machine Intelligence, 32(12). Available at: https://doi.org/10.1109/TPAMI.2010.46.](https://arxiv.org/pdf/0905.2635.pdf)
+
+[Yang, J., Li, H. and Jia, Y. (2013) ‘Go-ICP: Solving 3D registration efficiently and globally optimally’, in Proceedings of the IEEE International Conference on Computer Vision. Available at: https://doi.org/10.1109/ICCV.2013.184.](http://users.cecs.anu.edu.au/~hongdong/ICCV13goicp.pdf)
 
 
-
+<!-- ---------------------------------------------------------------------- -->
 ## Domain/Case specific papers on bin picking for data size argument
 robot arm used to move single calibration object to 6000 locations in regars to calibration of stereo vision camera. using parallell setup:<br>
 [Abdelaal, M. et al. (2021) ‘Uncalibrated stereo vision with deep learning for 6-DOF pose estimation for a robot arm system’, Robotics and Autonomous Systems, 145. Available at: https://doi.org/10.1016/j.robot.2021.103847.](https://www.sciencedirect.com/science/article/pii/S0921889021001329)
@@ -46,7 +49,7 @@ robot arm used to move single calibration object to 6000 locations in regars to 
 [Davies, R. (2012) Computer and Machine Vision, 4th Edition Theory, Algorithms, Practicalities Opsylum, Zhurnal Eksperimental’noi i Teoreticheskoi Fiziki.](https://www.mdpi.com/1424-8220/19/16/3602)
 
 
-
+<!-- ---------------------------------------------------------------------- -->
 ## Stereo vision camera calibration
 [Scharstein, D. and Szeliski, R. (2002) ‘A taxonomy and evaluation of dense two-frame stereo correspondence algorithms’, International Journal of Computer Vision, 47(1–3).](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf)
 
@@ -71,7 +74,7 @@ testing different baseline distances:<br>
 [Okutomi, M. and Kanade, T. (1993) ‘A Multiple-Baseline Stereo’, IEEE Transactions on Pattern Analysis and Machine Intelligence, 15(4). Available at: https://doi.org/10.1109/34.206955.](https://www.ri.cmu.edu/pub_files/pub2/okutomi_m_1993_1/okutomi_m_1993_1.pdf)
 
 
-
+<!-- ---------------------------------------------------------------------- -->
 ## Instance segmentation papers
 
 [VISION TRANSFORMER ADAPTER FOR DENSE PREDICTIONS](https://arxiv.org/pdf/2205.08534v4.pdf)(https://github.com/czczup/ViT-Adapter)
@@ -110,7 +113,7 @@ YOLOv9: <br>
 [- YOLOv9 github](https://github.com/WongKinYiu/yolov9)
 
 
-
+<!-- ---------------------------------------------------------------------- -->
 ## Instance segmentation dataset papers
 coco dataset:<br>
 [Lin, T.Y. et al. (2014) ‘Microsoft COCO: Common objects in context’, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Available at: https://doi.org/10.1007/978-3-319-10602-1_48.](https://arxiv.org/pdf/1405.0312.pdf)
@@ -122,7 +125,7 @@ SA-1B dataset, same paper for dataset as the model:<br>
 [Kirillov, A. et al. (2023) ‘Segment Anything’. Available at: http://arxiv.org/abs/2304.02643.](https://arxiv.org/pdf/2304.02643.pdf)<br>
 
 
-
+<!-- ---------------------------------------------------------------------- -->
 ## Stereo vision disparity estimation papers
 [Gidaris, S. and Komodakis, N. (2017) ‘Detect, replace, refine: Deep structured prediction for pixel wise labeling’, in Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017.](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gidaris_Detect_Replace_Refine_CVPR_2017_paper.pdf)
 
@@ -133,13 +136,13 @@ SA-1B dataset, same paper for dataset as the model:<br>
 [Seki, A. and Pollefeys, M. (2016) ‘Patch based confidence prediction for dense disparity map’, in British Machine Vision Conference 2016, BMVC 2016.](https://www.cvlibs.net/projects/autonomous_vision_survey/literature/Seki2016BMVC.pdf)
 
 
-
+<!-- ---------------------------------------------------------------------- -->
 ## litterature review READ THIS
 [Lahiri, S., Ren, J. and Lin, X. (2024) ‘Deep Learning-Based Stereopsis and Monocular Depth Estimation Techniques : A Review’, pp. 305–351.](https://www.mdpi.com/2624-8921/6/1/13) <br>
 this litterature review, compares CRL, SsMNet, PSMNet, EdgeStereo, HSM, MCV-MFC, HITNet, OptStereo, PVSereo, SMAR-Net, CRAR, ACVNet, iRaftStereo, PCW-Net, CGI-Stereo
 
 
-
+<!-- ---------------------------------------------------------------------- -->
 ## traditional stereo vision papers
 the beggining of stereo vision:<br>
 [Marr, D. and Poggio, T. (1976) ‘Cooperative computation of stereo disparity’](https://apps.dtic.mil/sti/tr/pdf/ADA030748.pdf)
@@ -148,6 +151,7 @@ Cross-based cost aggregation:<br>
 [https://ieeexplore-ieee-org.proxy1-bib.sdu.dk/stamp/stamp.jsp?tp=&arnumber=4811952](https://ieeexplore-ieee-org.proxy1-bib.sdu.dk/stamp/stamp.jsp?tp=&arnumber=4811952)
 
 
+<!-- ---------------------------------------------------------------------- -->
 ## neural network AND stereo imaging papers
     * mentioned in litterature review
 
@@ -157,7 +161,6 @@ Cross-based cost aggregation:<br>
 [- MC-CNN github](https://github.com/jzbontar/mc-cnn)
 
 ### 2016
-
 Content-CNN 2016:<br>
 [Luo, W., Schwing, A.G. and Urtasun, R. (2016) ‘Efficient deep learning for stereo matching’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition.](https://www.cs.toronto.edu/~urtasun/publications/luo_etal_cvpr16.pdf)
 
@@ -259,21 +262,36 @@ SMAR-Net 2021:<br>
 ### 2024
 
 
-
+<!-- ---------------------------------------------------------------------- -->
 ## Neural network AND stereo imaging dataset papers
+KITTI
+[A., Lenz, P. and Urtasun, R. (2012) ‘Are we ready for autonomous driving? the KITTI vision benchmark suite’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2012.6248074.](https://www.cvlibs.net/publications/Geiger2012CVPR.pdf)
+
+[A. et al. (2013) ‘Vision meets robotics: The KITTI dataset’, International Journal of Robotics Research, 32(11). Available at: https://doi.org/10.1177/0278364913491297.Geiger, ](https://www.cvlibs.net/publications/Geiger2013IJRR.pdf)
+
+[J., Kuhnl, T. and Geiger, A. (2013) ‘A new performance measure and evaluation benchmark for road detection algorithms’, in IEEE Conference on Intelligent Transportation Systems, Proceedings, ITSC. Available at: https://doi.org/10.1109/ITSC.2013.6728473.Geiger, ](https://www.cvlibs.net/publications/Fritsch2013ITSC.pdf)
+
+[Menze, M. and Geiger, A. (2015) ‘Object scene flow for autonomous vehicles’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2015.7298925.Fritsch, ](https://www.cvlibs.net/publications/Menze2015CVPR.pdf)
+
+
+
 DTU dataset:<br>
 [Jensen, R. et al. (2014) ‘Large scale multi-view stereopsis evaluation’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2014.59.](https://backend.orbit.dtu.dk/ws/portalfiles/portal/143897869/hkkr_Large_scale_data_for_multiple_view_stereopsis.pdf)
 
 Sceneflow:<br>
 [Mayer, N. et al. (2016) ‘A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2016.438.](https://lmb.informatik.uni-freiburg.de/Publications/2016/MIFDB16/paper-MIFDB16.pdf)
 
+[Mayer, N. et al. (2018) ‘What Makes Good Synthetic Training Data for Learning Disparity and Optical Flow Estimation?’, International Journal of Computer Vision, 126(9). Available at: https://doi.org/10.1007/s11263-018-1082-6.](https://arxiv.org/abs/1801.06397)
 
+Middlebury:<br>
+[Scharstein, D. et al. (2014) ‘High-resolution stereo datasets with subpixel-accurate ground truth’, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Available at: https://doi.org/10.1007/978-3-319-11752-2_3.](https://elib.dlr.de/90624/1/ScharsteinEtal2014.pdf)
 
+<!-- ---------------------------------------------------------------------- -->
 ## 3D imaging not stereo image papers
 [Zhou, C. et al. (2015) ‘Exploiting object similarity in 3D reconstruction’, Proceedings of the IEEE International Conference on Computer Vision, 2015 International Conference on Computer Vision, ICCV 2015, pp. 2201–2209.](https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Exploiting_Object_Similarity_ICCV_2015_paper.pdf)
 
 
-
+<!-- ---------------------------------------------------------------------- -->
 # Lectures
 Good explanation of the stereo vision disparity problem lecture 8, 9<br>
 [Computer vision 1, Penn State University 2007](https://www.cse.psu.edu/~rtc12/CSE486/)
@@ -284,7 +302,7 @@ Lecture 15 on stereo correspondence<br>
 [Computer Vision for Visual Effects](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a)
 
 
-
+<!-- ---------------------------------------------------------------------- -->
 # Non_research links 
 [Nielsen, N. (2020) From Beginner to Expert: How to Master Stereo Vision and Depth Estimation with OpenCV C++ and Python.](https://www.youtube.com/watch?v=KOSS24P3_fY)
 
@@ -316,5 +334,7 @@ Lecture 15 on stereo correspondence<br>
 
 [CVFX Lecture 15: Stereo correspondence](https://www.youtube.com/watch?v=kxsvG4sSuvA)
 
+
+<!-- ---------------------------------------------------------------------- -->
 ## table model overview
 | Model | Year | depth method | network | training method |
