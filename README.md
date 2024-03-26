@@ -31,6 +31,20 @@ keywords:
 
 
 <!-- ---------------------------------------------------------------------- -->
+## 3D-2D extrinsic calibration
+
+[Road is Enough! Extrinsic Calibration of Non-overlapping Stereo Camera and LiDAR using Road Information](https://arxiv.org/pdf/1902.10586.pdf)
+
+[VPFNet: Improving 3D Object Detection with Virtual Point based LiDAR and Stereo Data Fusion](https://arxiv.org/pdf/2111.14382v2.pdf)
+
+[Sparse LiDAR and Stereo Fusion (SLS-Fusion) for Depth Estimation and 3D Object Detection](https://e-archivo.uc3m.es/rest/api/core/bitstreams/918fd989-a44d-4958-9606-88b0982c57ee/content)
+
+[Automatic Calibration of Lidar and Camera Images using Normalized Mutual Information](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=fc08d41be320a827c3f045c4429e13495da5a1cc)
+
+[A 3D-2D Registration Method for Stereo Scan Overlay on Structure from Motion Model](https://www.conferences.com.au/wp-content/uploads/2020/09/75_CameraReady.pdf)    
+
+
+<!-- ---------------------------------------------------------------------- -->
 ## point cloud
 [Myronenko, A. and Song, X. (2010) ‘Point set registration: Coherent point drifts’, IEEE Transactions on Pattern Analysis and Machine Intelligence, 32(12). Available at: https://doi.org/10.1109/TPAMI.2010.46.](https://arxiv.org/pdf/0905.2635.pdf)
 
