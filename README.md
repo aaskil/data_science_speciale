@@ -203,7 +203,7 @@ GC-Net 2017:<br>
 ### 2018
 *PSMnet 2018 w/github :<br>
 [Chang, J.R. and Chen, Y.S. (2018) ‘Pyramid Stereo Matching Network’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2018.00567.](https://arxiv.org/pdf/1803.08669.pdf)<br>
-[- PSMnet github](https://github.com/JiaRenChang/ PSMNet/tree/master)
+[- PSMnet github](https://github.com/JiaRenChang/PSMNet/tree/master)
 
 *CSPN 2018:<br>
 [Cheng, X., Wang, P. and Yang, R. (2020) ‘Learning Depth with Convolutional Spatial Propagation Network’, IEEE Transactions on Pattern Analysis and Machine Intelligence, 42(10). Available at: https://doi.org/10.1109/TPAMI.2019.2947374.](https://arxiv.org/pdf/1810.02695.pdf)<br>
@@ -219,6 +219,9 @@ comparing stereo and mono depth estimation:<br>
 *EdgeStereo 2019:<br>
 [Song, X. et al. (2019) ‘EdgeStereo: A Context Integrated Residual Pyramid Network for Stereo Matching’, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Available at: https://doi.org/10.1007/978-3-030-20873-8_2.](https://www.researchgate.net/publication/323771029_EdgeStereo_A_Context_Integrated_Residual_Pyramid_Network_for_Stereo_Matching)
 
+GWC-Net 2019:<br>
+[Guo, X. et al. (2019) ‘Group-wise correlation stereo network’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2019.00339.](https://arxiv.org/abs/1903.04025)
+
 *HSM 2019:<br>
 [Yang, G. et al. (2019) ‘Hierarchical deep stereo matching on high-resolution images’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2019.00566.](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Hierarchical_Deep_Stereo_Matching_on_High-Resolution_Images_CVPR_2019_paper.pdf)
 
@@ -229,6 +232,9 @@ comparing stereo and mono depth estimation:<br>
 LEAStereo 2020<br>
 [Cheng, X. et al. (2020) ‘Hierarchical neural architecture search for deep stereo matching’, in Advances in Neural Information Processing Systems.](https://proceedings.neurips.cc/paper/2020/file/fc146be0b230d7e0a92e66a6114b840d-Paper.pdf)<br>
 [- LEAStereo github](https://github.com/XuelianCheng/LEAStereo)
+
+DSMNet 2020:<br>
+[Zhang, F. et al. (2020) ‘Domain-Invariant Stereo Matching Networks’, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Available at: https://doi.org/10.1007/978-3-030-58536-5_25.](https://arxiv.org/abs/1911.13287)
 
 time efficient cost volume formulation for nnBased disparity:<br>
 [Gu, X. et al. (2020) ‘Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition.](https://arxiv.org/pdf/1912.06378.pdf)
@@ -278,7 +284,7 @@ SMAR-Net 2021:<br>
 
 <!-- ---------------------------------------------------------------------- -->
 ## Neural network AND stereo imaging dataset papers
-KITTI
+KITTI dataset:<br>
 [A., Lenz, P. and Urtasun, R. (2012) ‘Are we ready for autonomous driving? the KITTI vision benchmark suite’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2012.6248074.](https://www.cvlibs.net/publications/Geiger2012CVPR.pdf)
 
 [A. et al. (2013) ‘Vision meets robotics: The KITTI dataset’, International Journal of Robotics Research, 32(11). Available at: https://doi.org/10.1177/0278364913491297.Geiger, ](https://www.cvlibs.net/publications/Geiger2013IJRR.pdf)
@@ -292,13 +298,17 @@ KITTI
 DTU dataset:<br>
 [Jensen, R. et al. (2014) ‘Large scale multi-view stereopsis evaluation’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2014.59.](https://backend.orbit.dtu.dk/ws/portalfiles/portal/143897869/hkkr_Large_scale_data_for_multiple_view_stereopsis.pdf)
 
-Sceneflow:<br>
+Sceneflow dataset:<br>
 [Mayer, N. et al. (2016) ‘A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation’, in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. Available at: https://doi.org/10.1109/CVPR.2016.438.](https://lmb.informatik.uni-freiburg.de/Publications/2016/MIFDB16/paper-MIFDB16.pdf)
 
 [Mayer, N. et al. (2018) ‘What Makes Good Synthetic Training Data for Learning Disparity and Optical Flow Estimation?’, International Journal of Computer Vision, 126(9). Available at: https://doi.org/10.1007/s11263-018-1082-6.](https://arxiv.org/abs/1801.06397)
 
-Middlebury:<br>
+Middlebury dataset:<br>
 [Scharstein, D. et al. (2014) ‘High-resolution stereo datasets with subpixel-accurate ground truth’, in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). Available at: https://doi.org/10.1007/978-3-319-11752-2_3.](https://elib.dlr.de/90624/1/ScharsteinEtal2014.pdf)
+
+
+ETH3D dataset:<br>
+[Schöps, T. et al. (2017) ‘A multi-view stereo benchmark with high-resolution images and multi-camera videos’, in Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017. Available at: https://doi.org/10.1109/CVPR.2017.272.]()
 
 <!-- ---------------------------------------------------------------------- -->
 ## 3D imaging not stereo image papers
@@ -351,4 +361,5 @@ Lecture 15 on stereo correspondence<br>
 
 <!-- ---------------------------------------------------------------------- -->
 ## table model overview
-| Model | Year | depth method | network | training method |
+| Model | Year | depth method | network | training method | dataset |
+| --- | --- | --- | --- | --- | --- |
